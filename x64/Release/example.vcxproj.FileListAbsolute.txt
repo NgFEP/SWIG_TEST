@@ -1,0 +1,2 @@
+C:\Users\oj53\source\repos\SwigTest4\x64\Release\_example.dll
+C:\Users\oj53\source\repos\SwigTest4_worked\x64\Release\_example.dll

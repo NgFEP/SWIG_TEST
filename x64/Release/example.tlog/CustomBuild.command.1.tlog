@@ -1,0 +1,2 @@
+^C:\USERS\OJ53\SOURCE\REPOS\SWIGTEST4_WORKED\EXAMPLE.I
+swig -c++ -python -o example_wrap.cpp example.i
