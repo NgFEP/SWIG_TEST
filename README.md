@@ -20,7 +20,6 @@ By utilizing [SWIG](https://www.swig.org/) (Simplified Wrapper and Interface Gen
 ### Executing program
 
 * Simply run runme.py
-* Command: python 
 
 ## Expected output!
 
